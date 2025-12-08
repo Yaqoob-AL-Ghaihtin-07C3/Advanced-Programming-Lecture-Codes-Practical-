@@ -84,31 +84,14 @@ This lecture dives into powerful C# features like delegates, events for creating
 | 6   | `Generic_Classes.cs`       | يقدم الأصناف العامة، التي تسمح بتعريف صنف آمن من حيث النوع وقابل لإعادة الاستخدام مع أنواع مختلفة.            |
 | 7   | `All_Concepts_Combined.cs` | مثال شامل يجمع بين المفوضات، الأحداث، الأنواع العامة، وعناصر واجهة المستخدم في تطبيق واحد.                  |
 
----
 
-## Lecture 2: 
-# أكواد مكونات تحكم مخصصة (Custom Controls) لـ C# WinForms
-
-هذا المستودع يحتوي على مجموعة من أكواد مكونات التحكم المخصصة (Custom Controls) المكتوبة بلغة C# والمصممة للاستخدام في تطبيقات Windows Form
-s. تم استخراج هذه الأكواد من ملفات المحاضرات والتمارين المرفقة.
-
-## قائمة الملفات
-
-| اسم الملف | الوصف |
-| :--- | :--- |
-| `SmartPasswordTextBox.cs` | مكون `TextBox` مخصص يعرض قوة كلمة المرور (ضعيف/متوسط/قوي) ويحتوي على أيقونة لإظهار/إخفاء كلمة المرور. |
-| `GradientButton.cs` | مكون `Button` مخصص بخلفية متدرجة الألوان (Gradient) لتصميم عصري. |
-| `SwipeNumeric.cs` | مكون `TextBox` مخصص للقيم الرقمية، يتيح تغيير القيمة عن طريق السحب (Swipe) بدلاً من أزرار الزيادة/النقصان التقليدية. |
-| `SearchTextBox.cs` | مكون `TextBox` مخصص مزود بخاصية الاقتراح التلقائي (Auto-Suggest) عبر قائمة منسدلة لعرض نتائج البحث الفورية. |
-| `DividerLine.cs` | مكون تحكم بسيط لإنشاء خط فاصل (أفقي أو عمودي) لتنظيم الواجهة. |
-| `OperationPanel.cs` | مكون `Panel` مخصص لتنفيذ العمليات الحسابية الأساسية (جمع، طرح، ضرب، قسمة) مع زر لتنفيذ العملية المحددة. |
-| `PanelOperation.cs` | مكون `Panel` مخصص لتنفيذ العمليات الحسابية الأساسية باستخدام `ComboBox` لاختيار العملية، ويسمح بإدخال الأرقام فقط. |
 
 ---
 
 
 
-## Lecture 2:  Custom Controls for C# WinForms
+
+## Lecture 3:  Custom Controls for C# WinForms
 
 This repository contains a collection of custom control codes written in C# and designed for use in Windows Forms applications. These codes were extracted from the attached lecture and exercise files.
 
@@ -123,6 +106,26 @@ This repository contains a collection of custom control codes written in C# and 
 | `DividerLine.cs` | A simple control component for creating a dividing line (horizontal or vertical) to organize the interface. |
 | `OperationPanel.cs` | A custom `Panel` control for performing basic arithmetic operations (Sum, Sub, Mult, Div) with a button to execute the selected operation. |
 | `PanelOperation.cs` | A custom `Panel` control for performing basic arithmetic operations using a `ComboBox` to select the operation, and only allows numeric input. |
+
+---
+
+
+
+## المحاضرة الثالثة : # مكونات تحكم مخصصة 
+
+هذا المستودع يحتوي على مجموعة من أكواد مكونات التحكم المخصصة (Custom Controls) المكتوبة بلغة C# والمصممة للاستخدام فأكواد اد نات نات خدام تطبيقات Windows For
+
+## قائمة الملفات
+
+| اسم الملف | الوصف |
+| :--- | :--- |
+| `SmartPasswordTextBox.cs` | مكون `TextBox` مخصص يعرض قوة كلمة المرور (ضعيف/متوسط/قوي) ويحتوي على أيقونة لإظهار/إخفاء كلمة المرور. |
+| `GradientButton.cs` | مكون `Button` مخصص بخلفية متدرجة الألوان (Gradient) لتصميم عصري. |
+| `SwipeNumeric.cs` | مكون `TextBox` مخصص للقيم الرقمية، يتيح تغيير القيمة عن طريق السحب (Swipe) بدلاً من أزرار الزيادة/النقصان التقليدية. |
+| `SearchTextBox.cs` | مكون `TextBox` مخصص مزود بخاصية الاقتراح التلقائي (Auto-Suggest) عبر قائمة منسدلة لعرض نتائج البحث الفورية. |
+| `DividerLine.cs` | مكون تحكم بسيط لإنشاء خط فاصل (أفقي أو عمودي) لتنظيم الواجهة. |
+| `OperationPanel.cs` | مكون `Panel` مخصص لتنفيذ العمليات الحسابية الأساسية (جمع، طرح، ضرب، قسمة) مع زر لتنفيذ العملية المحددة. |
+| `PanelOperation.cs` | مكون `Panel` مخصص لتنفيذ العمليات الحسابية الأساسية باستخدام `ComboBox` لاختيار العملية، ويسمح بإدخال الأرقام فقط. |
 
 ---
 
