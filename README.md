@@ -4,6 +4,13 @@
 
 This repository contains the practical code examples from the Advanced Programming in C# course lectures. The codes are organized into folders based on the lecture number.
 
+
+---
+## ترخيص محاضرات البرمجة الكائنية – C#
+
+هذا المستند يوضح بيانات ترخيص محاضرات مقرر **البرمجة الكائنية (OOP) بلغة #C** الخاصة بالأستاذ **عيسى الجماعي**، والتي تم إعدادها واستخدامها لأغراض تعليمية ضمن جامعة إب.
+
+---
 ---
 
 # أكواد محاضرات البرمجة المتقدمة بلغة #C (عملي)
